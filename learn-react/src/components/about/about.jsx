@@ -23,24 +23,24 @@ const about = () => {
             <article className='about__card'>
               <FaAward className='about__icon'/>
               <h5>Experience</h5>
-              <small>2+ Years Working</small>
+              <small>1+ Years Working</small>
             </article>
 
             <article className='about__card'>
               <FiUsers className='about__icon'/>
               <h5>Clients</h5>
-              <small>200+ Worldwide</small>
+              <small>50+ Worldwide</small>
             </article>
 
             <article className='about__card'>
               <VscFolderLibrary className='about__icon'/>
               <h5>Projects</h5>
-              <small>80+ Completed</small>
+              <small>15+ Completed</small>
             </article>
           </div>
 
           <p>
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Corporis illo quo deleniti non eaque fugiat accusantium, alias dignissimos dolor molestiae amet, incidunt vero, voluptatem consectetur hic perferendis doloremque consequuntur magni.
+          Motivated junior web developer certified from Meta with experience building unbreakable and elegant HTML5/CSS3/JavaScript(React) websites looking for an opportunity to grow front-end development skills in an innovative environment.
           </p>
 
           <a href="#contact" className='btn btn-primary'>Let's Talk</a>

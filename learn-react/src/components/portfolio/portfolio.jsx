@@ -18,60 +18,60 @@ const portfolio = () => {
           <div className="portfolio__item-image">
             <img src={IMG1} alt="img1s" />
           </div>
-          <h3>This a portfolio item title</h3>
+          <h3>My First Portfolio Project (Blue)</h3>
           <div className="portfolio__item-cta">
-            <a href="https://github.com" className='btn' target='_blank'>Github</a>
-            <a href="https://github.com" className='btn btn-primary' target='_blank'>Live Demo</a>
+            <a href="https://github.com/medcharfeddine" className='btn' target='_blank'>Github</a>
+            <a href="http://medcharfeddine-projects.epizy.com/Project1/" className='btn btn-primary' target='_blank'>Live Demo</a>
           </div>
         </article>
         <article className="portfolio__item">
           <div className="portfolio__item-image">
             <img src={IMG2} alt="img1s" />
           </div>
-          <h3>This a portfolio item title</h3>
+          <h3>Coming Soon</h3>
           <div className="portfolio__item-cta">
-            <a href="https://github.com" className='btn' target='_blank'>Github</a>
-            <a href="https://github.com" className='btn btn-primary' target='_blank'>Live Demo</a>
+            <a href="https://github.com/medcharfeddine" className='btn' target='_blank'>Github</a>
+            <a href="https://github.com/medcharfeddine" className='btn btn-primary' target='_blank'>Live Demo</a>
           </div>
         </article>
         <article className="portfolio__item">
           <div className="portfolio__item-image">
             <img src={IMG3} alt="img1s" />
           </div>
-          <h3>This a portfolio item title</h3>
+          <h3>Coming Soon</h3>
           <div className="portfolio__item-cta">
-            <a href="https://github.com" className='btn' target='_blank'>Github</a>
-            <a href="https://github.com" className='btn btn-primary' target='_blank'>Live Demo</a>
+            <a href="https://github.com/medcharfeddine" className='btn' target='_blank'>Github</a>
+            <a href="https://github.com/medcharfeddine" className='btn btn-primary' target='_blank'>Live Demo</a>
           </div>
         </article>
         <article className="portfolio__item">
           <div className="portfolio__item-image">
             <img src={IMG4} alt="img1s" />
           </div>
-          <h3>This a portfolio item title</h3>
+          <h3>Coming Soon</h3>
           <div className="portfolio__item-cta">
-            <a href="https://github.com" className='btn' target='_blank'>Github</a>
-            <a href="https://github.com" className='btn btn-primary' target='_blank'>Live Demo</a>
+            <a href="https://github.com/medcharfeddine" className='btn' target='_blank'>Github</a>
+            <a href="https://github.com/medcharfeddine" className='btn btn-primary' target='_blank'>Live Demo</a>
           </div>
         </article>
         <article className="portfolio__item">
           <div className="portfolio__item-image">
             <img src={IMG5} alt="img1s" />
           </div>
-          <h3>This a portfolio item title</h3>
+          <h3>Coming Soon</h3>
           <div className="portfolio__item-cta">
-            <a href="https://github.com" className='btn' target='_blank'>Github</a>
-            <a href="https://github.com" className='btn btn-primary' target='_blank'>Live Demo</a>
+            <a href="https://github.com/medcharfeddine" className='btn' target='_blank'>Github</a>
+            <a href="https://github.com/medcharfeddine" className='btn btn-primary' target='_blank'>Live Demo</a>
           </div>
         </article>
         <article className="portfolio__item">
           <div className="portfolio__item-image">
             <img src={IMG6} alt="img1s" />
           </div>
-          <h3>This a portfolio item title</h3>
+          <h3>Coming Soon</h3>
           <div className="portfolio__item-cta">
-            <a href="https://github.com" className='btn' target='_blank'>Github</a>
-            <a href="https://github.com" className='btn btn-primary' target='_blank'>Live Demo</a>
+            <a href="https://github.com/medcharfeddine" className='btn' target='_blank'>Github</a>
+            <a href="https://github.com/medcharfeddine" className='btn btn-primary' target='_blank'>Live Demo</a>
           </div>
         </article>
       </div>
